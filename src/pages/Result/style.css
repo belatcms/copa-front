@@ -1,0 +1,45 @@
+.title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  text-align: center;
+  color: #3C4151;
+  margin-top: 30px;
+}
+
+.result {
+  max-width: 665px;
+  margin: 50px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.result-item {
+  width: 100%;
+  max-width: 250px;
+}
+
+.result-versus {
+  max-width: 26px;
+}
+
+.result-item .result-trophy {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.result-item .result-trophy p {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 80px;
+  text-align: center;
+  color: #3C4151;
+  margin-right: 10px;
+}
+
+.result-versus {
+
+}
