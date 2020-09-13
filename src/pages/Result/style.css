@@ -40,6 +40,17 @@
   margin-right: 10px;
 }
 
-.result-versus {
+@media (max-width: 767px) {
+  .result {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 
+  .result .result-item{
+    max-width: initial;
+  }
+
+  .result .result-versus {
+    margin: 30px 0;
+  } 
 }

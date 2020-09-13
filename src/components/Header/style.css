@@ -4,13 +4,26 @@
   height: 290px;
 }
 
-.header img {
-  display: block;
-  margin: 0 auto;
+.header .container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header a {
+  display: inline-block;
+  max-width: 165px;
 }
 
 .header p {
   color: #ffffff;
   text-align: center;
   margin-top: 25px;
+}
+
+.header .header-link {
+  position: absolute;
+  top: 0;
+  left: 20px;
 }

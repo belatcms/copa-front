@@ -4,11 +4,20 @@ import './style.css'
 
 function Card(props) {
   return (
-    <div className='card'>
+    <div
+      onClick={props.onClick}
+      className={`
+        card
+        ${props.active ? 'active' : ''}
+        ${props.disabled ? 'disabled' : ''}
+      `}
+    >
       <img src={props.image} alt=''/>
       <h4>{props.name}</h4>
       <p>{props.initials}</p>
-      <span className='check'></span>
+      {
+        props.check && <span className='check'></span>
+      }
     </div>
   )
 }

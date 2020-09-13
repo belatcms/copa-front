@@ -1,0 +1,13 @@
+✔ Adicionar seta de voltar na página de resultados @done (13/09/2020 09:54:56)
+✔ Adicionar link na logo para voltar para a página principal @done (13/09/2020 09:54:59)
+✔ Ajustar parte responsiva @done (13/09/2020 10:14:16)
+✔ Adicionar comportamento da bolinha @done (13/09/2020 10:17:10)
+☐ Integrar com o back-end
+  ✔ Criar requisições no Mockable @done (13/09/2020 11:08:33)
+  ✔ Fazer a requisição no React @dtps://demo9435278.mockable.io'one (13/09/2020 11:08:35)
+  ✔ Configurar clique nos cards @done (13/09/2020 14:14:58)
+  ✔ Adicionar animação/scale nos cards @done (13/09/2020 14:16:42)
+  ✔ Adicionar funcionalidade de seleção de times @done (13/09/2020 14:18:20)
+  ✔ Habilitar botão quando chegar a 8 @done (13/09/2020 14:32:46)
+  ✔ Desabilitar times quando chegar a 8 @done (13/09/2020 14:39:09)
+  ✔ Adicionar clique no botão para fazer requisição @done (13/09/2020 15:14:12)

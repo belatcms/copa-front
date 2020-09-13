@@ -6,10 +6,6 @@
   border-bottom: 1px solid #6D6C6C;
 }
 
-.sub-header .selected-squad {
-
-}
-
 .sub-header .selected-squad  p{
   font-style: normal;
   font-weight: bold;
@@ -48,11 +44,16 @@
   cursor: pointer;
 }
 
+.sub-header button:disabled {
+  cursor: default;
+  background-color: #a7a7a7;
+  box-shadow: none;
+}
+
 .sub-header button img {
   max-width: 20px;
   margin-right: 10px;
 }
-
 
 .card-list {
   display: grid;
@@ -60,4 +61,29 @@
   gap: 25px;
   grid-template-columns: repeat(4, 1fr);
   margin: 50px 0;
+}
+
+@media (max-width: 991px) {
+  .card-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 767px) {
+  .sub-header {
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .sub-header .selected-squad, .sub-header h2, .sub-header button {
+    width: 100%;
+    margin: 10px 0;
+  }
+
+  .card-list {
+    grid-template-columns: repeat(1, 1fr);
+    margin: 30px;
+  }
 }
