@@ -28,7 +28,8 @@ export default api
 
 Página inicial do projeto
 
-![alt text](https://github.com/belatcms/copa-front/tree/master/src/assets/images/page1.png "pag ini")
+![page1](https://user-images.githubusercontent.com/28361987/93031089-90ea6480-f5fe-11ea-8eab-b7f0e338fa7d.png)
+
 
 
 Página Resultado
