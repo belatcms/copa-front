@@ -7,8 +7,9 @@ import Home from './pages/Home'
 import Result from './pages/Result'
 
 function App() {
+  console.log('entrou');
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route exact path='/' component={Home} />
         <Route path='/result' component={Result} />

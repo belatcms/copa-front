@@ -18,7 +18,7 @@ function Home() {
 
   useEffect(function() {
     function getTeams () {
-      api.get('/equipes')
+      api.get('/Equipe')
         .then(function(response) {
           setTeams(response.data)
         })
@@ -28,7 +28,7 @@ function Home() {
   }, [])
 
   function generateCup() {
-    api.post('/equipe')
+    api.post('/Equipe', selectedTeams)
       .then(response => {
         const firstTeamLogo = TeamsLogo.find(function(team) {
           return team.id === response.data[0].id
