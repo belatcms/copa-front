@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/copa-front/static/css/main.71a58489.chunk.css",
+    "main.js": "/copa-front/static/js/main.aef1a70c.chunk.js",
+    "main.js.map": "/copa-front/static/js/main.aef1a70c.chunk.js.map",
+    "runtime-main.js": "/copa-front/static/js/runtime-main.93b36df0.js",
+    "runtime-main.js.map": "/copa-front/static/js/runtime-main.93b36df0.js.map",
+    "static/js/2.089c4689.chunk.js": "/copa-front/static/js/2.089c4689.chunk.js",
+    "static/js/2.089c4689.chunk.js.map": "/copa-front/static/js/2.089c4689.chunk.js.map",
+    "index.html": "/copa-front/index.html",
+    "precache-manifest.a2e1377f558967006263ed28cd5affaa.js": "/copa-front/precache-manifest.a2e1377f558967006263ed28cd5affaa.js",
+    "service-worker.js": "/copa-front/service-worker.js",
+    "static/css/main.71a58489.chunk.css.map": "/copa-front/static/css/main.71a58489.chunk.css.map",
+    "static/js/2.089c4689.chunk.js.LICENSE.txt": "/copa-front/static/js/2.089c4689.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/copa-front/static/media/logo.449e2a25.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93b36df0.js",
+    "static/js/2.089c4689.chunk.js",
+    "static/css/main.71a58489.chunk.css",
+    "static/js/main.aef1a70c.chunk.js"
+  ]
+}
