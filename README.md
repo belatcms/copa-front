@@ -31,7 +31,6 @@ Página inicial do projeto
 ![page1](https://user-images.githubusercontent.com/28361987/93031089-90ea6480-f5fe-11ea-8eab-b7f0e338fa7d.png)
 
 
-
 Página Resultado
 
-![alt text](https://github.com/belatcms/copa-front/tree/master/src/assets/images/page2.png "pag result")
+![page2](https://user-images.githubusercontent.com/28361987/93031120-cd1dc500-f5fe-11ea-851c-18f118b50c2e.png)
