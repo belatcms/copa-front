@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d5f331d42863b395dbc1f52a3fb8854",
+    "revision": "c1eb3cec62c792c7f84f214da0f30fcf",
     "url": "/copa-front/index.html"
   },
   {
-    "revision": "270fd3db90e20584c504",
+    "revision": "edd643ce2fb90b502d89",
     "url": "/copa-front/static/css/main.71a58489.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/copa-front/static/js/2.089c4689.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "270fd3db90e20584c504",
-    "url": "/copa-front/static/js/main.aef1a70c.chunk.js"
+    "revision": "edd643ce2fb90b502d89",
+    "url": "/copa-front/static/js/main.2619c745.chunk.js"
   },
   {
     "revision": "5491ae4d7b7f0d54d328",

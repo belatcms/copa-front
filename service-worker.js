@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/copa-front/precache-manifest.a2e1377f558967006263ed28cd5affaa.js"
+  "/copa-front/precache-manifest.d5d24d1154a2173e4c83b454d3c5bda1.js"
 );
 
 self.addEventListener('message', (event) => {
