@@ -24,7 +24,7 @@ Antes de iniciar o projeto, favor entrar no caminho " copa-front > src > service
 Lembrando que não é necessário colocar "/" no final. 
 O seu arquivo deverá ficar parecido com isso: 
 
-javascript [ import axios from 'axios'
+js [ import axios from 'axios'
 const api = axios.create({
   baseURL: 'https://localhost:44322'  <-- SUA URL AQUI
 })
@@ -34,10 +34,8 @@ export default api ]
 ## Imagem do projeto
 
 Página inicial do projeto
-
-![alt text](https://github.com/belatcms/copa-front/tree/master/src/assets/images/page1.png "pag ini")
-
+![page1](https://user-images.githubusercontent.com/28361987/93032339-6ea91480-f607-11ea-8c6b-0761b4555aab.png)
 
 Página Resultado
+![page2](https://user-images.githubusercontent.com/28361987/93032338-6d77e780-f607-11ea-8013-2adf30fa462b.png)
 
-![alt text](https://github.com/belatcms/copa-front/tree/master/src/assets/images/page2.png "pag result")
