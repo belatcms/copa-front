@@ -39,3 +39,5 @@ Página inicial do projeto
 Página Resultado
 ![page2](https://user-images.githubusercontent.com/28361987/93032338-6d77e780-f607-11ea-8013-2adf30fa462b.png)
 
+## Figma do projeto
+https://www.figma.com/file/qxPeF5Ys1dUTutlrhLqxo6/Copa?node-id=0%3A1
